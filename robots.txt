@@ -1,0 +1,3 @@
+User-agent: *
+Host: parseworld.herokuapp.com
+Sitemap: https://parseworld.herokuapp.com/sitemap.xml
