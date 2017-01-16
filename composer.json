@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php-curl-class/php-curl-class": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Server\\": "server/"
+    }
+  }
+}
