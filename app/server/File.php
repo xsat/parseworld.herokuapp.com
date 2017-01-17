@@ -68,6 +68,6 @@ class File
      */
     private static function directory()
     {
-        return __DIR__ . '/../data/';
+        return __DIR__ . '/../../data/';
     }
 }
