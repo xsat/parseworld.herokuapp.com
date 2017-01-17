@@ -10,10 +10,10 @@
     <meta property="og:url" content="https://parseworld.herokuapp.com/" />
     <meta property="og:image" content="https://parseworld.herokuapp.com/img/logo.png" />
     <link rel="shortcut icon" type="image/x-icon" href="https://parseworld.herokuapp.com/img/favicon.ico" />
-    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_32.png" sizes="32x32">
-    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_48.png" sizes="48x48">
-    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_96.png" sizes="96x96">
-    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_144.png" sizes="144x144">
+    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_32.png" sizes="32x32" />
+    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_48.png" sizes="48x48" />
+    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_96.png" sizes="96x96" />
+    <link rel="icon" href="https://parseworld.herokuapp.com/img/favicon_144.png" sizes="144x144" />
     <link rel="stylesheet" type="text/css" href="/css/styles.css" />
 </head>
 <body>
