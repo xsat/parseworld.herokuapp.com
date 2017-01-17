@@ -21,7 +21,7 @@ $data_update = isset($matches[1][0]) ? end($matches[1]) : 'undefined';
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Log from <?php echo $data_create; ?> to <?php echo $data_update; ?></title>
+    <title>ParseWorld: Log from <?php echo $data_create; ?> to <?php echo $data_update; ?></title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-type" />
     <meta content="width=device-width, initial-scale=1, user-scalable=0" name="viewport" />
     <meta charset="UTF-8" />
