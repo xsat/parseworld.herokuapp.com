@@ -1,0 +1,35 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.5em;
+}
+img {
+    font-size: 3em;
+}
+h1, h2 {
+    color: #fff;
+}
+.container {
+    display: inline-block;
+}
+.logo img {
+    width: 128px;
+    height: 128px;
+}
+
+h1, h2, img {
+    padding: 0;
+    margin-top: 0.67em;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
